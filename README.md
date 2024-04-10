@@ -37,6 +37,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - This project was inspired by the need for a simple yet effective tool to manage VLC playlists.
 - Special thanks to the developers of the libraries used in this project, including psutil, vlc, and tkinter.
+- Special thanks to ChatGPT, the AI assistant, for their invaluable assistance in creating and refining this project.
+
 
 Feel free to use this README.md content in your repository. It provides clear instructions for users to understand the project, install dependencies, run the script, contribute, and learn about the project's license and acknowledgments.
 
